@@ -54,4 +54,4 @@ scaleGap.pack()    # Add it to the Canvas
 button = Button(root, text="Draw Skyscraper", command=newSkyscraper)
 button.pack()       # Add it to the Canvas
 
-root.mainloop()     # Start the main drawing loop
+root.mainloop()     # start the main loop

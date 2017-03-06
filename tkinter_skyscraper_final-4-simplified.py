@@ -22,7 +22,7 @@ def newTower():
                                         # Try using different colours such as "blue" or "red"
 
     myBuilding.pack(fill=BOTH, expand=1)
-    
+
 root = Tk()                                         # Set up Tkinter
 myBuilding = Canvas(root, width=500, height=500)    # Set up Canvas
 root.title("Skyscraper")                            # Set the title of your screen
